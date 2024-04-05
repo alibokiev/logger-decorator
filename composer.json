@@ -16,6 +16,7 @@
         "symfony/yaml": "6.3.*"
     },
     "require-dev": {
+        "psalm/plugin-symfony": "^5.1",
         "symfony/maker-bundle": "^1.53"
     },
     "config": {
